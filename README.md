@@ -9,7 +9,7 @@ docker build -t ysoserial.net .
 
 - Run the image
 ```bash
-docker run -dit --name ysoserial ysoserial-image
+docker run -dit --name ysoserial ysoserial.net
 ```
 
 - You can also use the ysoserial_runner.sh script to interact with ysoserial.net
