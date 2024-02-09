@@ -1,4 +1,4 @@
-## Dockeriamge for ysoserial.net
+## Docker image for ysoserial.net
 
 ### Usage
 
