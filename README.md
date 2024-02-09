@@ -21,9 +21,9 @@ ysoserial run '-p ViewState  -g TextFormattingRunProperties -c "ping 10.10.14.95
 
 #### Example
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 #### Note:
 - The image is about 5GB so it will take some time to build and make sure you have enough space on your machine.
  
-![alt text](image-1.png)
+![alt text](images/image-1.png)
